@@ -21,3 +21,8 @@
 ## UpStart
    - Opposite of "start-up" company, like you're a new-hire getting your first start
    - Good connotation for students
+
+## Rookie
+   - Similar to "Newbie"
+   - More sports-related implication
+   - More google search results
