@@ -26,3 +26,6 @@
    - Similar to "Newbie"
    - More sports-related implication
    - More google search results
+
+## 8========|) - - - 
+   - Cock
