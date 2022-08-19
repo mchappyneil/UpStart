@@ -1,6 +1,4 @@
-# Docs
-## This directory is for non-programming related documentation.
+# Student-Job-Site
+## Created by Neil Mehta, Fares Al-Tantawi, and Vishnu Ravinder
 
-## List of directories:
-
-- [Startup](https://github.com/Student-Job-Website/docs/tree/main/startup)
+Balls
