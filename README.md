@@ -1,4 +1,4 @@
-# Student-Job-Site
+# UpStart
 ## Created by Neil Mehta, Fares Al-Tantawi, and Vishnu Ravinder
 
 Balls
